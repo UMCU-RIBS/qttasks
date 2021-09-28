@@ -7,7 +7,7 @@
     }
   },
   "SCREEN": {
-    "DOWNWARDS": -100,
+    "DOWNWARDS": -200,
     "RIGHTWARDS": 0
   },
   "OUTRO": 15,
