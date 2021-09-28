@@ -1,5 +1,4 @@
 {
-  "OUTRO": 12,
-  "DATAGLOVE": false,
+  "DATAGLOVE": true,
   "BACKGROUND": "grey"
 }
